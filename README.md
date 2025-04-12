@@ -1,5 +1,5 @@
  # How to Run the Job Matcher Project (windows):
-   1. git clone https://github.com/your-username/job-matcher.git
+   1. git clone https://github.com/varunrao1103/job-matcher.git
    2. cd job-matcher
    3. python -m venv venv 
    4. venv\Scripts\activate
